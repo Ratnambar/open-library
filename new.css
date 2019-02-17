@@ -1,0 +1,44 @@
+body
+{
+	margin: O auto;
+	background-image:url("walbook.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 720px;
+}
+.container
+{
+	width:500px;
+	height:400px;
+	text-align:center;
+	background-color:rgb(160,160,160);
+	border-radius:4pX;
+	margin:0 auto;
+	margin-top: 150px;
+}
+.container img{
+	width:300px;
+	height:250px;
+	margin-top:-100px;
+	margin-bottom:-0.2px;
+}
+input[type="text"],input[type="password"]
+{
+
+	height:45px;
+	width:400px;
+	font-size:20px;
+	border-radius:4px;
+	border:none;
+	margin-bottom:20px;
+	background:color:#fff;
+	padding-left:30px;
+
+}
+	.con_btn
+{
+	padding:15px 30px;
+	background-color:#ff0000;
+	border:none;
+	border-radius:4px;
+	 border-bottom:solid white;
+	text-align:center;
